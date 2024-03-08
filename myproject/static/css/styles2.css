@@ -1,0 +1,133 @@
+.bg1 {
+    background-color:burlywood
+
+}
+
+.div1 {
+    background-image: url('../images/images1.jpg');
+    background-size: 100% 100%;
+    padding-top: 30px;
+    height: 490px;
+    width: 80%;
+}
+
+.div2 {
+    background-image: url('../images/images2.jpg');
+    background-size: 100% 100%;
+    padding-top: 30px;
+    height: 490px;
+    width: 20%;
+}
+
+.home-main {
+    display: flex;
+}
+
+.register {
+
+    position: fixed;
+    bottom: 90px;
+    left: 450px;
+}
+
+img {
+    display: block;
+    margin: 50px auto 0px;
+}
+
+.bg2 {
+    background-color: aquamarine;
+}
+
+.bg3 {
+    background-color: cadetblue;
+}
+
+.main,
+.head1,
+.head2 {
+    color: darkblue;
+    text-align: center;
+}
+
+.main_div {
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.head1_div,
+.head2_div {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.form_div {
+    margin-top: 10px;
+}
+
+th,
+td {
+    border: 2px solid blue;
+}
+
+table {
+    border-collapse: collapse;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+   
+}
+th{
+    color: yellow;
+}
+
+td{
+    color: white;
+}
+.studname {
+    text-align: center;
+    color:whitesmoke
+}
+
+.bg4 {
+    background-image: url('../images/old-wooden-textures_74190-1171.avif');
+    /* background-size: 100% */
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+   
+}
+
+.smain {
+    color: crimson;
+    text-align: center;
+}
+
+.button {
+    background-color: rgb(78, 214, 15);
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    display: block;
+    margin-left: 80px;
+
+}
+
+form {
+    width: 300px;
+    margin: auto;
+}
+
+.inp {
+    margin-left: 20px;
+}
+
+.inp1 {
+    margin-left: 21px;
+}
+
+.inp2 {
+    margin-left: 29px;
+}
